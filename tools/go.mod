@@ -11,7 +11,6 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ecrpublic v1.13.6 // indirect
 	github.com/bep/debounce v1.2.1 // indirect
 	github.com/bep/gitmap v1.3.0 // indirect
-	github.com/buildpacks/lifecycle v0.14.1 // indirect
 	github.com/buildpacks/pack v0.27.0
 	github.com/clbanning/mxj/v2 v2.5.6 // indirect
 	github.com/containerd/cgroups v1.0.4 // indirect
@@ -32,15 +31,12 @@ require (
 	github.com/pelletier/go-toml/v2 v2.0.2 // indirect
 	github.com/rivo/tview v0.0.0-20220610163003-691f46d6f500 // indirect
 	github.com/spf13/cobra v1.4.0
-	github.com/spf13/viper v1.10.0 // indirect
 	github.com/tdewolff/minify/v2 v2.11.9 // indirect
 	github.com/tdewolff/parse/v2 v2.6.0 // indirect
 	gocloud.dev v0.25.0 // indirect
-	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd // indirect
+	golang.org/x/image v0.5.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb // indirect
-	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d // indirect
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467 // indirect
-	golang.org/x/tools v0.1.11 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/api v0.83.0 // indirect
 	google.golang.org/genproto v0.0.0-20220608133413-ed9918b62aac // indirect
